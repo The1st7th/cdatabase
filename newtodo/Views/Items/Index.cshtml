@@ -3,7 +3,8 @@
 @if(Model != null){
   @foreach(var item in Model)
   {
-  <li>@item.GetId() @item.GetDescription()</li>
+  <li>@item.GetId() @item.GetDescription() <a href="/items/delete/@item.GetId()">delete item</a></li>
+
   }
   }
 </ul>

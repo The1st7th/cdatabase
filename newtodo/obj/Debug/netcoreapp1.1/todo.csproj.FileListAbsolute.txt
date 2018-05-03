@@ -22,3 +22,11 @@
 /Users/Guest/Desktop/todo.solution/newtodo/obj/Debug/netcoreapp1.1/todo.AssemblyInfo.cs
 /Users/Guest/Desktop/todo.solution/newtodo/obj/Debug/netcoreapp1.1/todo.dll
 /Users/Guest/Desktop/todo.solution/newtodo/obj/Debug/netcoreapp1.1/todo.pdb
+/Users/Guest/Desktop/cdatabase/newtodo/bin/Debug/netcoreapp1.1/todo.deps.json
+/Users/Guest/Desktop/cdatabase/newtodo/bin/Debug/netcoreapp1.1/todo.runtimeconfig.json
+/Users/Guest/Desktop/cdatabase/newtodo/bin/Debug/netcoreapp1.1/todo.runtimeconfig.dev.json
+/Users/Guest/Desktop/cdatabase/newtodo/bin/Debug/netcoreapp1.1/todo.dll
+/Users/Guest/Desktop/cdatabase/newtodo/bin/Debug/netcoreapp1.1/todo.pdb
+/Users/Guest/Desktop/cdatabase/newtodo/obj/Debug/netcoreapp1.1/todo.AssemblyInfo.cs
+/Users/Guest/Desktop/cdatabase/newtodo/obj/Debug/netcoreapp1.1/todo.dll
+/Users/Guest/Desktop/cdatabase/newtodo/obj/Debug/netcoreapp1.1/todo.pdb
