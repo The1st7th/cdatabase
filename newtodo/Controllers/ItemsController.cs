@@ -62,6 +62,12 @@ namespace ToDoList.Controllers
           List<Item> allItems = Item.GetAll();
           return View("index", allItems);
       }
+      [HttpGet("/items/cat")]
+      public ActionResult Indexf()
+      {
+          List<Category> allItems = Category.GetAll();
+          return View("index", allItems);
+      }
 
 
     }
